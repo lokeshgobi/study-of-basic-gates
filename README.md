@@ -65,12 +65,13 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+<img width="1917" height="1025" alt="CODE" src="https://github.com/user-attachments/assets/002b5314-7940-40b6-bbea-45209ec32c16" />
 
  Developed by: Lokeshwaran G, 25004504
  
 **Logic symbol & Truthtable**
 
-RTL realization Output:** 
+**RTL realization Output:** 
 <img width="1920" height="1032" alt="EXP 01 RTL" src="https://github.com/user-attachments/assets/0f8f103f-44e1-46f2-ac02-2467c33001c0" />
 
 
