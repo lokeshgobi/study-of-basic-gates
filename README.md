@@ -74,11 +74,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL realization Output:** 
 <img width="1920" height="1032" alt="EXP 01 RTL" src="https://github.com/user-attachments/assets/0f8f103f-44e1-46f2-ac02-2467c33001c0" />
 
-
 **Flow Diagram**
-<img width="1920" height="1032" alt="Flow diagram 1" src="https://github.com/user-attachments/assets/e0e92fd5-b481-4f93-9ef9-09dd13d52401" />
-
-
+<img width="1918" height="1020" alt="new waveform" src="https://github.com/user-attachments/assets/73a9f90d-4585-4d02-b3ef-f4f48b6b3fc2" />
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified
